@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Department,Location,Region,EmploymentStatus,EmploymentType,HireDate,TerminationDate,FTE,ValidationStatus
+E1001,Avery Chen,Human Resources,Chicago,Central,Active,Full-Time,2022-03-14,,1.0,Valid
+E1002,Jordan Patel,Finance,New York,East,Active,Full-Time,2021-07-05,,1.0,Valid
+E1003,Morgan Lee,Sales,Austin,South,Terminated,Full-Time,2020-11-02,2026-07-18,1.0,Valid
+E1004,Taylor Kim,Information Technology,Seattle,West,Active,Full-Time,2023-01-09,,1.0,Valid
+E1005,Riley Gomez,Sales,Austin,South,Active,Part-Time,2024-05-20,,0.5,Valid
+E1006,Casey Brown,Finance,New York,East,Active,Full-Time,2022-09-12,,1.0,Valid
+E1007,Jamie Davis,Customer Support,Chicago,Central,Active,Full-Time,2025-02-03,,1.0,Valid
+E1009,Sam Rivera,Operations,Dallas,South,Active,Contractor,2025-08-11,,1.0,Valid
+E1010,Drew Wilson,Marketing,Boston,East,Active,Full-Time,2024-10-01,,1.0,Valid
+E1011,Cameron Price,Marketing,Boston,East,Active,Full-Time,2026-01-15,,1.0,Valid

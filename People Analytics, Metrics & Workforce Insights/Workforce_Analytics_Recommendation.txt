@@ -1,0 +1,7 @@
+Finding: The most decision-relevant pattern for current staffing pressure is concentrated voluntary attrition in South. South held 21% of the beginning-of-quarter population (210 of 1,000) but accounted for 15 of the organization's 27 voluntary separations (56%). Its Q2 2026 voluntary attrition rate was 7.1%, against 1.4-1.8% in North, Central and West and 2.7% organization-wide. South was the only region whose headcount fell (210 to 205). It hired 11 joiners, the same as North, so the decline reflects outflow rather than lower hiring. Weaker recruiting adds pressure: South's screened-to-interview conversion was 55.6% (organization 70.5%) and average time-to-fill was 45 days (organization 35.7). Backlog per FTE in Escalations Ops was 6.8, roughly double the other regions.
+
+Actions compared: (A) a targeted South attrition diagnostic, reviewing exit reasons for the 15 leavers and holding stay conversations with current Escalations Ops staff; (B) a South recruiting funnel review to lift conversion and cut time-to-fill. Option B would speed replacement but does not address why leavers are concentrated in South. Option A responds directly to the primary pattern and is low cost and reversible.
+
+Recommendation: Option A, owned by the South HR business partner, with a readout to the South regional leader within 30 days.
+
+Limitation: The evidence is descriptive and covers one quarter. South's L3 compa-ratio (0.98) is the lowest, but with no exit reasons, market benchmark or Q1 attrition baseline, pay cannot be treated as the cause.

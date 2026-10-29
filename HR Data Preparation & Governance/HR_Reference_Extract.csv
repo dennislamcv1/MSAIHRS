@@ -1,0 +1,13 @@
+﻿EmployeeID,DepartmentName,Region,WorkerStatus,WorkerType,EffectiveDate
+E1001,Human Resources,Central,Active,Full-Time,2026-08-01
+E1002,Finance,East,Active,Full-Time,2026-08-01
+E1003,Sales,South,Terminated,Full-Time,2026-08-01
+E1004,Information Technology,West,Active,Full-Time,2026-08-01
+E1005,Sales,South,Active,Part-Time,2026-08-01
+E1006,Finance,East,Active,Full-Time,2026-08-01
+E1007,Customer Support,Central,Active,Full-Time,2026-08-01
+E1008,Operations,South,Terminated,Full-Time,2026-08-01
+E1009,Operations,South,Active,Contractor,2026-08-01
+E1010,Marketing,East,Active,Full-Time,2026-08-01
+E1011,Marketing,East,Active,Full-Time,2026-08-01
+E1012,Sales,West,Active,Full-Time,2026-08-01

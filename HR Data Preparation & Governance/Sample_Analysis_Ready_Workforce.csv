@@ -1,0 +1,5 @@
+EmployeeID,EmployeeName,Department,Location,Region,EmploymentStatus,EmploymentType,HireDate,TerminationDate,FTE,ValidationStatus
+S2001,Noah Allen,Finance,Denver,West,Active,Full-Time,2023-02-13,,1.0,Valid
+S2002,Mia Carter,Operations,Phoenix,West,Active,Part-Time,2024-08-05,,0.6,Valid
+S2003,Liam Brooks,Marketing,Atlanta,South,Terminated,Full-Time,2021-04-19,2026-06-30,1.0,Valid
+S2004,Zoe Turner,Customer Support,Chicago,Central,Active,Full-Time,2025-01-27,,1.0,Valid

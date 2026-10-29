@@ -1,0 +1,13 @@
+EmployeeID,EmployeeName,Department,Location,EmploymentStatus,EmploymentType,HireDate,TerminationDate,FTE
+E1001,Avery Chen,Human Resources,Chicago,Active,Full-Time,2022-03-14,,1.0
+E1002,Jordan Patel,Finance,New York,ACTIVE,Full-Time,2021-07-05,,1.0
+E1003,Morgan Lee,Sales,Austin,Terminated,Full-Time,2020-11-02,2026-07-18,1.0
+E1004,Taylor Kim,IT,Seattle,Active,Full Time,2023-01-09,,1.0
+E1005,Riley Gomez,Sales,Austin,Active,Part-Time,2024-05-20,,0.5
+E1006,Casey Brown,Finance,New York,Active,Full-Time,2022-09-12,,1.0
+E1007,Jamie Davis,,Chicago,Active,Full-Time,2025-02-03,,1.0
+E1008,Alex Morgan,Operations,Dallas,Terminated,Full-Time,2023-06-01,2023-05-15,1.0
+E1009,Sam Rivera,Ops,Dallas,Active,Contractor,2025-08-11,,1.0
+E1010,Drew Wilson,Marketing,Boston,active ,Full-Time,2024-10-01,,1.0
+E1011,Cameron Price,Marketing,Boston,Active,Full-Time,2026-01-15,,1.0
+E1011,Cameron Price,Marketing,Boston,Active,Full-Time,2026-01-15,,1.0

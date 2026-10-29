@@ -1,0 +1,19 @@
+PBIX SPECIFICATION — Project_power_bi_starter_report.pbix
+=========================================================
+Note: pending SME provision. This file specifies the visuals + measures the PBIX would contain.
+
+Model:
+  Table Region_Summary (imported from Project_prepared_workforce_workbook.xlsx / Region_Summary)
+
+Measures:
+  Voluntary Attrition %   := SUM( Region_Summary[Voluntary_Attrition_Pct] )
+  Backlog per FTE         := SUM( Region_Summary[Backlog_per_FTE] )
+  TTF Days                := AVERAGE( Region_Summary[Avg_TTF_Days] )
+
+Visuals:
+  Page 1 — Region KPIs
+    Cards + bar for each metric by region, highlighting South's outlier values.
+  Page 2 — Cross-metric view
+    Scatter: Voluntary Attrition % vs Backlog per FTE by region.
+  Page 3 — Guardrails
+    Card: Reporting period Q2 2026; Text: Descriptive-only interpretation reminder.
